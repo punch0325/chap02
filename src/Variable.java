@@ -16,17 +16,17 @@ public class Variable {
 		System.out.println(num3);
 		
 		
-		byte b = 0;
-		short s = 0;
-		char c = 0;
-		int i = 0;
-		long l = 0;
-		
-		
-		float f = 0;
-		double d = 0;
-		
-		boolean bl = false;
+//		byte b = 0;
+//		short s = 0;
+//		char c = 0;
+//		int i = 0;
+//		long l = 0;
+//		
+//		
+//		float f = 0;
+//		double d = 0;
+//		
+//		boolean bl = false;
 		
 
 	}
