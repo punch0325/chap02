@@ -14,6 +14,9 @@ public class PrintExample {
 		System.out.println("------------------------------------------------------------------------------------------------------------------------------------");	
 		System.out.println();
 		
+		
+		//서식이 있을 땐 printf를 써서 출력한다
+		
 		System.out.printf("num = [%d]\n", 99); // 정수 정렬
 		System.out.printf("num = [%10d]\n", 99); // 총 10자리를 쓰는 것
 		System.out.printf("num = [%-10d]\n", 99); // -를 붙이면 왼쪽정렬 됨
