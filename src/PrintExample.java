@@ -49,6 +49,11 @@ public class PrintExample {
 		System.out.printf("str = [%s]\n", "Hello"); // 문자열 타입 (String) 정렬
 		System.out.printf("str = [%10s]\n", "Hello");
 		System.out.printf("str = [%-10s]\n", "Hello");
+		
+		System.out.printf("%d X %d = %2d\n" , num1 , num2 , result);
+		                          // " "안에 형식을 입력 후에 , 으로 해당 형식 자리에 맞는 변수를 입력해준다
+	
+	
 	}
 	
 	
